@@ -16,7 +16,7 @@ npm run build
 npm run build --report
 ```
 
-## 原来，VUE页面切换动画是这样实现的
+## VUE页面切换动画过渡效果实现
 
 页面切换场景需求描述：
 
